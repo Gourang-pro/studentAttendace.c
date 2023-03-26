@@ -1,0 +1,2 @@
+# studentAttendace.c
+present absent
